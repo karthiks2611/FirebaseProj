@@ -2,7 +2,8 @@
 
 // Reference Messages collection
 
- var messagesRef = firebase.database().ref('messages');
+/*Once you added your firebase configuration, uncomment this*/
+ // var messagesRef = firebase.database().ref('messages');
 
 
 // Listen for form Submit
